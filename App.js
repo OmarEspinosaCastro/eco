@@ -16,7 +16,7 @@ export default function App() {
   // Usar el hook
   useImmediateSessionReset(handleForceLogout);
 
-
+//log
   return (
     <AuthProvider>
       <NavigationContainer>
