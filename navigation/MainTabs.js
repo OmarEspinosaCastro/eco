@@ -9,7 +9,8 @@ import { Ionicons } from '@expo/vector-icons';
 
 const Tab = createBottomTabNavigator();
 
-export default function MainTabs() {
+export default function 
+MainTabs() {
   return (
     <Tab.Navigator
       screenOptions={({ route }) => ({
