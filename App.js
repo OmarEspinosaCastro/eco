@@ -24,4 +24,4 @@ export default function App() {
       </NavigationContainer>
     </AuthProvider>
   );
-}
+}// Cambio de prueba en Medidor
